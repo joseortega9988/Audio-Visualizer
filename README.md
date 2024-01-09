@@ -1,6 +1,9 @@
 # Audio-Visualizer
 Meyda Audio Vizualizer with voice commands and p5.js
 
+![3D game ](https://github.com/joseortega9988/DJ-Audio-Visualizer/assets/77720475/f2560a33-c050-4199-8b6e-e7db5e540811)
+
+
 ## Steps to run it 
 
 #### Step one
